@@ -1,4 +1,4 @@
-let chatbotMsgList = ["Hi,iam a enterainment bot.", "Hey", "hi,have a niceday", "Good Evening", "How can I help you?", "how are you", "this bot created by buchi", "plz provide your name", "wheather is very cool", "hello thanks for connecting with as over messanger"];
+let chatbotMsgList = ["Hi,iam a enterainment bot.", "Hey", "hi,have a niceday", "Good Evening", "How can I help you?", "how are you", "this bot created by buchi", "plz provide your name", "wheather is very cool", "hello thanks for connecting with as over messanger","how can can i assest you today","I build using html, css, js", "iam not Ai based boot",];
 
 let inputid = document.getElementById("userInput");
 let bt = document.getElementById("sendMsgBtn");
